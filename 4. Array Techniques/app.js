@@ -29,3 +29,9 @@ console.log(fruits);
 const moreFruits = ["kiwi", "lemon", "mango"];
 const allFruits = fruits.concat(moreFruits);
 console.log(allFruits);
+
+// join, reverse, slice
+const pl = ["JavaScript", "Python", "Ruby", "Java"];
+console.log(pl.join("-"));
+console.log(pl.reverse());
+console.log(pl.slice(0, 2));
