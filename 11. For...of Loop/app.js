@@ -1,5 +1,6 @@
 let name = "John";
 
+// Iterator
 for (let letter of name) {
   console.log(letter);
 }
